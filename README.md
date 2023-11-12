@@ -13,4 +13,3 @@ PA3 - Do You See What I See?
 PA4 - Genetic Palindrome Finder
 
 
-- Angelina House
