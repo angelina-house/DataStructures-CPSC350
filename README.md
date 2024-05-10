@@ -1,7 +1,7 @@
-DataStructures-CPSC350
-This folder is home to all assignments given in CPSC350 aka Data Structures from Fall 2023
+# **DataStructures - CPSC350** 
+This folder is home to all assignments given in CPSC350 aka Data Structures from Fall 2023 
 
-Contents
+**Contents** \
 PA1 - Robber Language Translation
 
 PA2 - Not So Super Mario
