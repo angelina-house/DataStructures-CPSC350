@@ -1,0 +1,13 @@
+Faculty ID: 2
+Name: george
+Level: teach
+Department: stem
+Student ID List: 2 
+
+Student ID: 2
+Name: diya
+Level: sophmore
+Major: buis
+GPA: 3.4
+Faculty ID: 2
+
